@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "corne-classic-rescue")(type "Legacy")(uri "${KIPRJMOD}/Kylorne-rescue.lib")(options "")(descr ""))
+  (lib (name "corne-classic-cache")(type "Legacy")(uri "C:/Users/A64562/Downloads/crkbd-corne-classic-v2.0.0/corne-classic/pcb/Kylorne-cache.lib")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "C:/Users/A64562/OneDrive - Microchip Technology Inc/문서/GitHub/crkbd/pcbs/common/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "wren-plain")(type "KiCad")(uri "C:/Users/A64562/Downloads/wren-keyboard-main/PCBs/legacy/wren-plain/footprints.pretty")(options "")(descr ""))
+)
